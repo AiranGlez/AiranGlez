@@ -1,16 +1,14 @@
 ### Hi there 👋
+---
 
-<!--
-**AiranGlez/AiranGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Airan Gonzalez, and I am a computer system administrator and a novice application developer. I am originally from the Canary Islands, in Spain, and I am recently working as a Linux systems and cloud computing administrator, specialized in technologies such as Docker, Openstack, Kubernetes and others. In my free time, I really enjoy playing music and videogames, taking walks through the forest and reading. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Atos Consulting Canarias
+- 🌱 I’m currently learning Python REST API development
+- 💬 Ask me about anythin you want to know
+- 📫 How to reach me: airangonzalezgomez@gmail.com
+
+---
+![](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
