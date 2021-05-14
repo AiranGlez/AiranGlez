@@ -6,7 +6,7 @@ My name is Airan Gonzalez, and I am a computer system administrator and a novice
 ---
 
 - 🔭 I’m currently working on Atos Consulting Canarias
-- 🌱 I’m currently learning Python REST API development
+- 🌱 I’m currently learning about Python application development
 - 💬 Ask me about anything I could help with
 - 📫 How to reach me: airangonzalezgomez@gmail.com
 
