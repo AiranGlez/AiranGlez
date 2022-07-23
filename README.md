@@ -5,4 +5,4 @@
 - 💬 Contact me: airangonzalezgomez@gmail.com
 
 ---
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="drawing" width="600" style="display: block; margin: 0 auto"/>
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="drawing" width="400" style="display: block; margin: 0 auto"/>
