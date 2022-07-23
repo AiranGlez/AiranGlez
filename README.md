@@ -2,6 +2,7 @@
 ---
 
 - 🔭 IT System Administrator || Junior Application Developer || DevOps
+- 👅 Spanish || English
 - 💬 Contact me: airangonzalezgomez@gmail.com
 
 ---
